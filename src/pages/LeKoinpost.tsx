@@ -3,7 +3,7 @@ import { motion } from "motion/react";
 import PageWrapper from "../components/layout/PageWrapper";
 import { videoPosters, videoProperPosters } from "../data/videoPosters";
 
-const KOINPOST_SRC = "/videos/LeKoinpost_FILM.webm";
+const KOINPOST_SRC = "/videos/LeKoinpost_FILM.mp4";
 
 const NICKY_RODING_IMAGES = [
   {
@@ -67,12 +67,12 @@ export default function LeKoinpost() {
               </div>
 
               <a
-                href="https://lekoinpost.com"
+                href="https://www.lekoinpost.com"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="koinpost-link"
               >
-                lekoinpost.com
+                https://www.lekoinpost.com
               </a>
             </motion.div>
           </div>

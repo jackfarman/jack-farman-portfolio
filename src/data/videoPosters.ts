@@ -1,20 +1,20 @@
 // Tiny (~20px) JPEG stills — shown immediately while the video loads.
 // Keyed by the video src path as it appears in projects.ts / page templates.
 export const videoPosters: Record<string, string> = {
-  "/videos/Part_I_(faire_oeuvre_faire_ecosysteme).webm":
+  "/videos/Part_I_(faire_oeuvre_faire_ecosysteme).mp4":
     "data:image/jpeg;base64,/9j/4AAQSkZJRgABAgAALAAtAAD//gAQTGF2YzYyLjI4LjEwMQD/2wBDAAgEBAQEBAUFBQUFBQYGBgYGBgYGBgYGBgYHBwcICAgHBwcGBgcHCAgICAkJCQgICAgJCQoKCgwMCwsODg4RERT/xABtAAEBAQEBAAAAAAAAAAAAAAAGAQMEBQEBAQEAAAAAAAAAAAAAAAAAAQMEEAACAgEDAgILAQAAAAAAAAABAgMRBAASMSEFYQaRscHRMgdR8CIUcRMRAAMBAQEBAAAAAAAAAAAAABEBAAIDIRP/wAARCAALABQDASIAAhEAAxEA/9oADAMBAAIRAxEAPwAlP2jJyJ3XI67dsSGFY2SQbrcxCFQiA0SD/luI5JvWHmJhhCOGMMgRgtEEg0KJ45+or+adeS8bHz8DETIhjdVjgApFQkMEvcYwpbk/ETof8zseHE71kJAgjVZ3UAWegNCySSTXSzZ8dZt8hln0uGmLwHyzuNeoe3U/bPj6F9+uZSWLkkn8jq192dT+WIF//9k=",
-  "/videos/Part_II_(exposome).webm":
+  "/videos/Part_II_(exposome).mp4":
     "data:image/jpeg;base64,/9j/4AAQSkZJRgABAgAAAQABAAD//gAQTGF2YzYyLjI4LjEwMQD/2wBDAAgEBAQEBAUFBQUFBQYGBgYGBgYGBgYGBgYHBwcICAgHBwcGBgcHCAgICAkJCQgICAgJCQoKCgwMCwsODg4RERT/xABtAAADAQEAAAAAAAAAAAAAAAACAQUABwEAAwEAAAAAAAAAAAAAAAAAAAECAxAAAgIBBAEDBQEAAAAAAAAAAQIDEQAhBDESkVEFIlKSQTKxFBEAAgICAwEBAAAAAAAAAAAAAQIAERJhAwUEMZH/wAARCAAPABQDASIAAhEAAxEA/9oADAMBAAIRAxEAPwDiY2jtIxldZiTqWkYSM/5FnXzlTce4bdvYotnFGIppJHZwiVfCDgX+o+RJvJ5SLabnu5ZwQAmg05NHU36ni8StJPLfztr6UQvUHSxR/vjIcZVogwU43sVCSZY1CyMSw0sDH/ph9W+3AonhmA4A7HTN1b638nEeJSZsvY+lVC38AH5P/9k=",
-  "/videos/Part_III_(eaux_et_pays).webm":
+  "/videos/Part_III_(eaux_et_pays).mp4":
     "data:image/jpeg;base64,/9j/4AAQSkZJRgABAgAALAAtAAD//gAQTGF2YzYyLjI4LjEwMQD/2wBDAAgEBAQEBAUFBQUFBQYGBgYGBgYGBgYGBgYHBwcICAgHBwcGBgcHCAgICAkJCQgICAgJCQoKCgwMCwsODg4RERT/xABkAAEBAQEBAAAAAAAAAAAAAAAEAgUDBwEBAQEAAAAAAAAAAAAAAAAAAgEDEAABBAEEAQUBAAAAAAAAAAABAhEDACEyBDESBRPRgXIiUREBAQEBAQAAAAAAAAAAAAAAAQACMSH/wAARCAALABQDASIAAhEAAxEA/9oADAMBAAIRAxEAPwDweBXVCccZr1+RCNvH6KDHIEkTHqzlyeQXAZh/Rc+PSj6+9Spal7X9F9QcgOwGM05PdWb1ibuVc0xWsuSBeVqbV8CzbM4X/9k=",
-  "/videos/LeKoinpost_FILM.webm":
+  "/videos/LeKoinpost_FILM.mp4":
     "data:image/jpeg;base64,/9j/4AAQSkZJRgABAgAALAAtAAD//gAQTGF2YzYyLjI4LjEwMQD/2wBDAAgEBAQEBAUFBQUFBQYGBgYGBgYGBgYGBgYHBwcICAgHBwcGBgcHCAgICAkJCQgICAgJCQoKCgwMCwsODg4RERT/xABxAAEBAQEAAAAAAAAAAAAAAAAGAwIEAQADAQAAAAAAAAAAAAAAAAAAAgMEEAACAQMDAgMJAQAAAAAAAAABAgMEEQUAEhMGIWEHFBXTU6GUUSJCQTERAAEDBQEBAAAAAAAAAAAAAAExACERAhMSUcFh/8AAEQgACwAUAwEiAAIRAAMRAP/aAAwDAQACEQMRAD8AS0fUvTOKXLS5NOSKijZqfiYMszRxuZY3VtqiQSxtGpLcY/a2p0/mF5b52SmghrEL1exYoDCY23yAWiBYKC6sdpCE9/8AND+msFjMxQTeuilnFQxmmX1NTGksko/N3SKZFJbxGtZDofpamWJoceIzTHdARUVV4mJvdDz3Bv3vrHjtK1hKey77gWwv1GgyWDoaerZW2MGAdb2vtb+HxBuNc/srHfZPloXXKwntzVNgABepqD2F7dzJfUbP8Wo+on95oxHrXccf/9k=",
 };
 
 // Full-quality poster frames (~1280px wide) switched in once canPlay fires.
 export const videoProperPosters: Record<string, string> = {
-  "/videos/Part_I_(faire_oeuvre_faire_ecosysteme).webm": "/images/poster_part_i.v2.webp",
-  "/videos/Part_II_(exposome).webm": "/images/poster_part_ii.v2.webp",
-  "/videos/Part_III_(eaux_et_pays).webm": "/images/poster_part_iii.v2.webp",
-  "/videos/LeKoinpost_FILM.webm": "/images/poster_koinpost.webp",
+  "/videos/Part_I_(faire_oeuvre_faire_ecosysteme).mp4": "/images/poster_part_i.v2.webp",
+  "/videos/Part_II_(exposome).mp4": "/images/poster_part_ii.v2.webp",
+  "/videos/Part_III_(eaux_et_pays).mp4": "/images/poster_part_iii.v2.webp",
+  "/videos/LeKoinpost_FILM.mp4": "/images/poster_koinpost.webp",
 };

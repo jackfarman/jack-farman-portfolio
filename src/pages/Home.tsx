@@ -8,9 +8,9 @@ import VideoPlayer from "../components/ui/VideoPlayer";
 const SESSION_KEY = "jf-loader-shown";
 
 const PRELOAD_SRCS = [
-  "/videos/Part_I_(faire_oeuvre_faire_ecosysteme).webm",
-  "/videos/Part_II_(exposome).webm",
-  "/videos/Part_III_(eaux_et_pays).webm",
+  "/videos/Part_I_(faire_oeuvre_faire_ecosysteme).mp4",
+  "/videos/Part_II_(exposome).mp4",
+  "/videos/Part_III_(eaux_et_pays).mp4",
 ];
 
 export default function Home() {
