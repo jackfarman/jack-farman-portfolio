@@ -178,13 +178,13 @@ export const projects: Project[] = [
             type: "image",
             src: "/images/Pioneer_Species_Part_III_-_Image_B.webp",
             caption:
-              "Top: Mapping the Doulaye river circulation into the forest with Fabrice Hyber. Extract from Pioneer Species (Part III), Jack Farman, 2025.",
+              "Top: Water distribution in the Doulaye river in Vendée. Extract from Pioneer Species (Part III), Jack Farman, 2026.",
           },
           {
             type: "image",
             src: "/images/Pioneer_Species_Part_III_-_Image_A.webp",
             caption:
-              "Bottom: Water distribution in the Doulaye river in Vendée. Extract from Pioneer Species (Part III), Jack Farman, 2026.",
+              "Bottom: Mapping the Doulaye river circulation into the forest with Fabrice Hyber. Extract from Pioneer Species (Part III), Jack Farman, 2025.",
           },
         ],
       },
@@ -319,13 +319,13 @@ export const projects: Project[] = [
             type: "image",
             src: "/images/Pioneer_Species_Part_III_-_Image_B.webp",
             caption:
-              "En haut : cartographie de la circulation de la Doulaye dans la forêt avec Fabrice Hyber. Extrait d'Espèces Pionnières (Partie III), Jack Farman, 2025.",
+              "En haut : distribution d'eau dans la rivière Doulaye en Vendée. Extrait d'Espèces Pionnières (Partie III), Jack Farman, 2026.",
           },
           {
             type: "image",
             src: "/images/Pioneer_Species_Part_III_-_Image_A.webp",
             caption:
-              "En bas : distribution d'eau dans la rivière Doulaye en Vendée. Extrait d'Espèces Pionnières (Partie III), Jack Farman, 2026.",
+              "En bas : cartographie de la circulation de la Doulaye dans la forêt avec Fabrice Hyber. Extrait d'Espèces Pionnières (Partie III), Jack Farman, 2025.",
           },
         ],
       },
