@@ -82,7 +82,7 @@ export const projects: Project[] = [
           },
           {
             type: "paragraph",
-            text: "Pioneer species are what makes life possible again in damaged ground. Ecologically, they are the first organisms to colonize barren or disturbed land, and are often mobilized deliberately in regenerative projects¹. In transforming the conditions of a place, they become figures of alterity — opening it to forms of life it could no longer sustain. In cities, where soil and plant life have long been segmented and sealed off, they suggest what regeneration might still look like.",
+            text: "Pioneer species are what makes life possible again in damaged ground. Ecologically, they are the first organisms to colonize barren or disturbed land, and are often mobilized deliberately in regenerative projects¹. In transforming the conditions of a place, they become figures of alterity, opening it to forms of life it could no longer sustain. In cities, where soil and plant life have long been segmented and sealed off, they suggest what regeneration might still look like.",
           },
           {
             type: "paragraph",
@@ -90,7 +90,7 @@ export const projects: Project[] = [
           },
           {
             type: "paragraph",
-            text: "Their urgency is for future generations: how can a neighborhood build resilience, and how can care and life take root when urban living tends to fragment relations — between neighbors, and between humans and the world around them?",
+            text: "Their urgency is for future generations: how can a neighborhood build resilience, and how can care and life take root when urban living tends to fragment relations, between neighbors and between humans and the world around them?",
           },
           {
             type: "image",
@@ -116,7 +116,7 @@ export const projects: Project[] = [
           },
           {
             type: "paragraph",
-            text: "In weekly gatherings at the community garden, inhabitants discuss how plants respond to soil, deposits, and water — and how trees take hold and endure in the urban environment. Larger questions surface: what forms of care does a neighborhood in transformation need? What is an ecosystem in which plants and humans are equally agents of daily life? What is natural, and what is cultural?",
+            text: "In weekly gatherings at the community garden, inhabitants discuss how plants respond to soil, deposits, and water, and how trees take hold and endure in the urban environment. Larger questions surface: what forms of care does a neighborhood in transformation need? What is an ecosystem in which plants and humans are equally agents of daily life? What is natural, and what is cultural?",
           },
         ],
       },
@@ -125,15 +125,15 @@ export const projects: Project[] = [
         content: [
           {
             type: "paragraph",
-            text: "Researching the tree-planting initiative around the future metro stations led me to ask a broader question: what role do trees play in an ecosystem? To explore this, I filmed a sown forest in Vendée that has grown over thirty years as a collaborative land art project initiated by the artist Fabrice Hyber — a counterpoint to the mineralized city, where planted trees have, over time, built the conditions for species to coexist. For Hyber, the forest is not separate from his imagination but an extension of it, and his work bears the traces of that entanglement. Scattered through the trees are his large-scale sculptures, which act as agents of perception: a wooden humanoid fountain surrounded by different plant species, for instance, makes visible how plants live socially, among themselves. What remains is the mark of a process in which forest and artist continuously shape one another.",
+            text: "Researching the tree-planting initiative around the future metro stations led me to ask a broader question: what role do trees play in an ecosystem? To explore this, I filmed a sown forest in Vendée that has grown over thirty years as a collaborative land art project initiated by the artist Fabrice Hyber, a counterpoint to the mineralized city, where planted trees have, over time, built the conditions for species to coexist. For Hyber, the forest is not separate from his imagination but an extension of it, and his work bears the traces of that entanglement. Scattered through the trees are his large-scale sculptures, which act as agents of perception: a wooden humanoid fountain surrounded by different plant species, for instance, makes visible how plants live socially, among themselves. What remains is the mark of a process in which forest and artist continuously shape one another.",
           },
           {
             type: "paragraph",
-            text: "Where the first film treated the relations between species and territory as a potential act of creation — for plants in a given soil, for humans building their future neighborhood — the second follows what happens once pioneer species have already begun regenerating life: the ongoing negotiation of that relation, which keeps making new life possible. I set this film a year later, at an urban farm on the outskirts of Paris, in Aubervilliers, called Zone Sensible, where pioneer species have made the soil hospitable to agriculture again.",
+            text: "Where the first film treated the relations between species and territory as a potential act of creation (for plants in a given soil, for humans building their future neighborhood), the second follows what happens once pioneer species have already begun regenerating life: the ongoing negotiation of that relation, which keeps making new life possible. I set this film a year later, at an urban farm on the outskirts of Paris, in Aubervilliers, called Zone Sensible, where pioneer species have made the soil hospitable to agriculture again.",
           },
           {
             type: "paragraph",
-            text: "Here, inhabitants deposit food waste onto a compost platform shaped like an omega, a symbol for the unending cycle of life and death. Matter decomposes; for a while it's uncertain whether life will return, and then it does. The relation between species and territory here takes the form of movement — the act of leaving one's home to return waste to the soil, so that it might one day yield food again. Sustaining the cycle means letting go of accumulation, giving back rather than keeping.",
+            text: "Here, inhabitants deposit food waste onto a compost platform shaped like an omega, a symbol for the unending cycle of life and death. Matter decomposes; for a while it's uncertain whether life will return, and then it does. The relation between species and territory here takes the form of movement: the act of leaving one's home to return waste to the soil, so that it might one day yield food again. Sustaining the cycle means letting go of accumulation, giving back rather than keeping.",
           },
           {
             type: "paragraph",
@@ -170,15 +170,15 @@ export const projects: Project[] = [
         content: [
           {
             type: "paragraph",
-            text: "In the third and final film, I look at the relations between species and territory as a form of commemoration. On the outskirts of Paris, in Saint-Denis, the river La Vieille Mer was buried in the twentieth century to make way for construction and mobility; today there are plans to reopen it. For this fieldwork, I take part in collective gatherings organized around a map of the territory, bringing together local inhabitants of Saint-Denis — many of whom have forgotten the river ever existed, save for a few elders. Larger questions surface: what role does water play in sustaining a territory, and why were these polluted rivers buried in the first place, if not to conceal the toxicity beneath? The gatherings imagine a sponge city, where soil retains water instead of losing it to drains and sewers. After this amnesia, the urgency becomes how to commemorate water, given its foundational role in the creation of life. As inhabitants search for the river and start to understand where rainwater is held or channeled, they arrive at the same need: to make it visible again.",
+            text: "In the third and final film, I look at the relations between species and territory as a form of commemoration. On the outskirts of Paris, in Saint-Denis, the river La Vieille Mer was buried in the twentieth century to make way for construction and mobility; today there are plans to reopen it. For this fieldwork, I take part in collective gatherings organized around a map of the territory, bringing together local inhabitants of Saint-Denis, many of whom have forgotten the river ever existed, save for a few elders. Larger questions surface: what role does water play in sustaining a territory, and why were these polluted rivers buried in the first place, if not to conceal the toxicity beneath? The gatherings imagine a sponge city, where soil retains water instead of losing it to drains and sewers. After this amnesia, the urgency becomes how to commemorate water, given its foundational role in the creation of life. As inhabitants search for the river and start to understand where rainwater is held or channeled, they arrive at the same need: to make it visible again.",
           },
           {
             type: "paragraph",
-            text: "This film also turns to other forms of water management, as how forests and farms retain and circulate water has become an urgent question in its own right⁴. This leads me back to the forest in Vendée, where Fabrice Hyber is developing a project to let water from the Doulaye river circulate more freely through the living terrain. Here too, the aim is to make water visible, and to restore an awareness of the role it plays in sustaining life. Commemoration matters because it projects water management into the longue durée⁵ — a way of remembering built to last, rather than to fade.",
+            text: "This film also turns to other forms of water management, as how forests and farms retain and circulate water has become an urgent question in its own right⁴. This leads me back to the forest in Vendée, where Fabrice Hyber is developing a project to let water from the Doulaye river circulate more freely through the living terrain. Here too, the aim is to make water visible, and to restore an awareness of the role it plays in sustaining life. Commemoration matters because it projects water management into the longue durée⁵, a way of remembering built to last rather than to fade.",
           },
           {
             type: "paragraph",
-            text: "Pioneer Species offers a glimpse into communities making and inhabiting territories in tension as they transform. Within that tension, these communities move forward because it is now or never — to create, to act, and finally to commemorate what once made life possible.",
+            text: "Pioneer Species offers a glimpse into communities making and inhabiting territories in tension as they transform. Within that tension, these communities move forward because it is now or never: to create, to act, and finally to commemorate what once made life possible.",
           },
           {
             type: "image",
@@ -214,7 +214,7 @@ export const projects: Project[] = [
       },
       {
         number: 5,
-        text: "Longue durée is a concept developed by the French historian Fernand Braudel and the Annales School, describing the study of history over the long term — structural rhythms unfolding across centuries rather than through singular events.",
+        text: "Longue durée is a concept developed by the French historian Fernand Braudel and the Annales School, describing the study of history over the long term: structural rhythms unfolding across centuries rather than through singular events.",
       },
     ],
     sectionsFr: [
@@ -227,15 +227,15 @@ export const projects: Project[] = [
           },
           {
             type: "paragraph",
-            text: "Les espèces pionnières sont ce qui rend la vie de nouveau possible sur un sol abîmé. Ce sont, écologiquement, les premiers organismes à coloniser une terre stérile ou perturbée, et on les mobilise souvent, délibérément, dans des projets de régénération¹. En transformant les conditions d'un lieu, elles en deviennent les figures d'altérité — l'ouvrant à des formes de vie qu'il ne pouvait plus accueillir. En ville, où le sol et le végétal ont longtemps été fragmentés et scellés, elles indiquent ce à quoi la régénération pourrait encore ressembler.",
+            text: "Sur un sol abîmé, les espèces pionnières rendent la vie de nouveau possible. Ce sont, écologiquement, les premiers organismes à coloniser une terre stérile ou perturbée, et on les mobilise souvent, délibérément, dans des projets de régénération¹. En transformant les conditions d'un lieu, elles en deviennent les figures d'altérité, l'ouvrant à des formes de vie qu'il ne pouvait plus accueillir. En ville, où le sol et le végétal ont longtemps été fragmentés et scellés, elles indiquent ce à quoi la régénération pourrait encore ressembler.",
           },
           {
             type: "paragraph",
-            text: "À Nanterre, où se construit une nouvelle ligne de métro du Grand Paris, les habitants imaginent un quartier où respirer et cohabiter avec d'autres formes de vie, humaines et non-humaines. Une centaine d'entre eux se sont chacun engagés à prendre soin d'un arbre pionnier, un Paulownia tomentosa — l'arbre impératrice —, destiné à être planté aux abords des futures stations.",
+            text: "À Nanterre, où se construit une nouvelle ligne de métro du Grand Paris, les habitants imaginent un quartier où respirer et cohabiter avec d'autres formes de vie, humaines et non-humaines. Une centaine d'entre eux se sont chacun engagés à prendre soin d'un arbre pionnier, un Paulownia tomentosa, l'arbre impératrice, destiné à être planté aux abords des futures stations.",
           },
           {
             type: "paragraph",
-            text: "Leur urgence se joue pour les générations à venir : comment un quartier peut-il se construire une résilience, et comment le soin et la vie peuvent-ils s'enraciner quand la vie urbaine tend à fragmenter les liens — entre voisins, entre l'humain et le monde qui l'entoure ?",
+            text: "Leur urgence se joue pour les générations à venir : comment un quartier peut-il se construire une résilience, et comment le soin et la vie peuvent-ils s'enraciner quand la vie urbaine tend à fragmenter les liens, entre voisins, entre l'humain et le monde qui l'entoure ?",
           },
           {
             type: "image",
@@ -247,7 +247,7 @@ export const projects: Project[] = [
             type: "image",
             src: "/images/Pioneer_Species_Part_I_-_Image_C.webp",
             caption:
-              "Au milieu : un habitant arrosant les plantes à Paris. Extrait d'Espèces Pionnières (Partie I), Jack Farman, 2024.",
+              "Au milieu : une habitante arrosant les plantes à Paris. Extrait d'Espèces Pionnières (Partie I), Jack Farman, 2024.",
           },
           {
             type: "image",
@@ -261,7 +261,7 @@ export const projects: Project[] = [
           },
           {
             type: "paragraph",
-            text: "Lors de rassemblements hebdomadaires au jardin communautaire, les habitants échangent sur la réaction des plantes au sol, aux apports, à l'eau — mais aussi sur la façon dont les arbres s'implantent et persistent en ville. Des questions plus vastes surgissent alors : de quel soin un quartier en transformation a-t-il besoin ? Qu'est-ce qu'un écosystème où plantes et humains sont également agents du quotidien ? Qu'est-ce qui relève du naturel, qu'est-ce qui relève du culturel ?",
+            text: "Lors de rassemblements hebdomadaires au jardin communautaire, les habitants échangent sur la réaction des plantes au sol, aux apports, à l'eau, mais aussi sur la façon dont les arbres s'implantent et persistent en ville. Des questions plus vastes surgissent alors : de quel soin un quartier en transformation a-t-il besoin ? Qu'est-ce qu'un écosystème où plantes et humains sont également agents du quotidien ? Qu'est-ce qui relève du naturel, qu'est-ce qui relève du culturel ?",
           },
         ],
       },
@@ -270,15 +270,15 @@ export const projects: Project[] = [
         content: [
           {
             type: "paragraph",
-            text: "En enquêtant sur l'initiative de plantation autour des futures stations de métro, une question plus large s'est imposée à moi : quel rôle les arbres jouent-ils dans un écosystème ? Pour l'explorer, j'ai filmé une forêt plantée en Vendée il y a trente ans, œuvre d'art collaborative initiée par l'artiste Fabrice Hyber — un contrepoint à la ville minéralisée, où les arbres plantés ont, avec le temps, créé les conditions d'une coexistence entre espèces. Pour Hyber, la forêt n'est pas séparée de son imaginaire mais en est le prolongement, et son œuvre porte à son tour la trace de cet enchevêtrement. Il y a disséminé des sculptures monumentales qui font office d'agents de perception : une fontaine humanoïde en bois, entourée d'espèces végétales variées, rend par exemple visible la vie sociale des plantes entre elles. Ce qui demeure, ce sont les marques d'un processus où la forêt et l'artiste se façonnent continuellement l'un l'autre.",
+            text: "En enquêtant sur l'initiative de plantation autour des futures stations de métro, une question plus large s'est imposée à moi : quel rôle les arbres jouent-ils dans un écosystème ? Pour l'explorer, j'ai filmé une forêt plantée en Vendée il y a trente ans, œuvre d'art collaborative initiée par l'artiste Fabrice Hyber, un contrepoint à la ville minéralisée, où les arbres plantés ont, avec le temps, créé les conditions d'une coexistence entre espèces. Pour Hyber, la forêt n'est pas séparée de son imaginaire mais en est le prolongement, et son œuvre porte à son tour la trace de cet enchevêtrement. Il y a disséminé des sculptures monumentales qui font office d'agents de perception : une fontaine humanoïde en bois, entourée d'espèces végétales variées, rend par exemple visible la vie sociale des plantes entre elles. Ce qui demeure, ce sont les marques d'un processus où la forêt et l'artiste se façonnent continuellement l'un l'autre.",
           },
           {
             type: "paragraph",
-            text: "Là où le premier film envisageait les relations entre espèces et le territoire comme un acte de création possible — pour les plantes dans un sol donné, pour les habitants bâtissant leur futur quartier —, le second observe ce qui se joue une fois que les espèces pionnières ont déjà entamé la régénération : la négociation continue de cette relation, qui rend possible une vie toujours nouvelle. J'ai situé ce film un an plus tard, dans une ferme urbaine de la périphérie parisienne, à Aubervilliers, nommée Zone Sensible, où les espèces pionnières ont rendu le sol de nouveau propice à l'agriculture.",
+            text: "Là où le premier film envisageait les relations entre espèces et le territoire comme un acte de création possible (pour les plantes dans un sol donné, pour les habitants bâtissant leur futur quartier), le second observe ce qui se joue une fois que les espèces pionnières ont déjà entamé la régénération : la négociation continue de cette relation, qui rend possible une vie toujours nouvelle. J'ai situé ce film un an plus tard, dans une ferme urbaine de la périphérie parisienne, à Aubervilliers, nommée Zone Sensible, où les espèces pionnières ont rendu le sol de nouveau propice à l'agriculture.",
           },
           {
             type: "paragraph",
-            text: "Ici, les habitants déposent leurs déchets alimentaires sur une plateforme de compostage en forme d'oméga, symbole du cycle sans fin de la vie et de la mort. La matière se décompose ; pendant un temps, rien ne dit que la vie reviendra — puis elle revient. La relation entre espèces et le territoire prend ici la forme d'un mouvement : quitter son domicile pour rendre ses déchets à la terre, afin qu'elle produise un jour à nouveau de la nourriture. Maintenir ce cycle suppose de renoncer à l'accumulation, de redonner plutôt que de garder.",
+            text: "Ici, les habitants déposent leurs déchets alimentaires sur une plateforme de compostage en forme d'oméga, symbole du cycle sans fin de la vie et de la mort. La matière se décompose ; pendant un temps, rien ne dit que la vie reviendra, puis elle revient. La relation entre espèces et le territoire prend ici la forme d'un mouvement : quitter son domicile pour rendre ses déchets à la terre, afin qu'elle produise un jour à nouveau de la nourriture. Maintenir ce cycle suppose de renoncer à l'accumulation, de redonner plutôt que de garder.",
           },
           {
             type: "paragraph",
@@ -315,15 +315,15 @@ export const projects: Project[] = [
         content: [
           {
             type: "paragraph",
-            text: "Dans ce troisième et dernier film, j'envisage les relations entre espèces et le territoire comme une forme de commémoration. En périphérie de Paris, à Saint-Denis, la rivière la Vieille Mer a été enfouie au XXe siècle pour laisser place à la construction et à la circulation ; sa réouverture est aujourd'hui à l'étude. Pour ce travail de terrain, je participe à des rassemblements organisés autour d'une carte du territoire, réunissant des habitants de Saint-Denis — dont beaucoup ont oublié jusqu'à l'existence de la rivière, hormis quelques anciens. Des questions plus vastes surgissent : quel rôle joue l'eau dans la vie d'un territoire, et pourquoi ces rivières polluées ont-elles été enfouies, sinon pour en dissimuler la toxicité ? Les rassemblements imaginent une ville éponge, où le sol retiendrait l'eau plutôt que de la perdre dans les égouts. Après cette amnésie, l'urgence devient : comment commémorer l'eau, quand son rôle dans la création de la vie est si fondamental ? À mesure que les habitants recherchent la rivière et comprennent où l'eau de pluie est retenue ou canalisée, ils en arrivent à la même nécessité : la rendre de nouveau visible.",
+            text: "Dans ce troisième et dernier film, j'envisage les relations entre espèces et le territoire comme une forme de commémoration. En périphérie de Paris, à Saint-Denis, la rivière la Vieille Mer a été enfouie au XXe siècle pour laisser place à la construction et à la circulation ; sa réouverture est aujourd'hui à l'étude. Pour ce travail de terrain, je participe à des rassemblements organisés autour d'une carte du territoire, réunissant des habitants de Saint-Denis, dont beaucoup ont oublié jusqu'à l'existence de la rivière, hormis quelques anciens. Des questions plus vastes surgissent : quel rôle joue l'eau dans la vie d'un territoire, et pourquoi ces rivières polluées ont-elles été enfouies, sinon pour en dissimuler la toxicité ? Les rassemblements imaginent une ville éponge, où le sol retiendrait l'eau plutôt que de la perdre dans les égouts. Après cette amnésie, l'urgence devient : comment commémorer l'eau, quand son rôle dans la création de la vie est si fondamental ? À mesure que les habitants recherchent la rivière et comprennent où l'eau de pluie est retenue ou canalisée, ils en arrivent à la même nécessité : la rendre de nouveau visible.",
           },
           {
             type: "paragraph",
-            text: "Ce film se tourne aussi vers d'autres formes de gestion de l'eau, tant la façon dont les forêts et les fermes la retiennent et la font circuler est devenue, en elle-même, une question urgente⁴. Cela me ramène à la forêt de Vendée, où Fabrice Hyber développe un projet permettant à l'eau de la Doulaye de circuler plus librement à travers le terrain vivant. Là aussi, il s'agit de rendre l'eau visible, et de restaurer la conscience du rôle qu'elle joue dans le maintien de la vie. La commémoration importe parce qu'elle inscrit la gestion de l'eau dans la longue durée⁵ — une mémoire construite pour durer, plutôt que pour s'effacer.",
+            text: "Ce film se tourne aussi vers d'autres formes de gestion de l'eau, tant la façon dont les forêts et les fermes la retiennent et la font circuler est devenue, en elle-même, une question urgente⁴. Cela me ramène à la forêt de Vendée, où Fabrice Hyber développe un projet permettant à l'eau de la Doulaye de circuler plus librement à travers le terrain vivant. Là aussi, il s'agit de rendre l'eau visible, et de restaurer la conscience du rôle qu'elle joue dans le maintien de la vie. La commémoration importe parce qu'elle inscrit la gestion de l'eau dans la longue durée⁵, une mémoire construite pour durer plutôt que pour s'effacer.",
           },
           {
             type: "paragraph",
-            text: "Espèces Pionnières donne à voir des communautés qui fabriquent et habitent des territoires en tension, à mesure qu'ils se transforment. Dans cette tension, elles avancent parce que c'est maintenant ou jamais — pour créer, pour agir, et enfin pour commémorer ce qui, autrefois, a rendu la vie possible.",
+            text: "Espèces Pionnières donne à voir des communautés qui fabriquent et habitent des territoires en tension, à mesure qu'ils se transforment. Dans cette tension, elles avancent parce que c'est maintenant ou jamais : pour créer, pour agir, et enfin pour commémorer ce qui, autrefois, a rendu la vie possible.",
           },
           {
             type: "image",
@@ -359,7 +359,7 @@ export const projects: Project[] = [
       },
       {
         number: 5,
-        text: "La longue durée est un concept développé par l'historien français Fernand Braudel et l'École des Annales, désignant l'étude de l'histoire sur de longues échelles de temps lentes — des rythmes structurels qui se déroulent sur des siècles plutôt qu'à travers des événements singuliers.",
+        text: "La longue durée est un concept développé par l'historien français Fernand Braudel et l'École des Annales, désignant l'étude de l'histoire sur de longues échelles de temps lentes : des rythmes structurels qui se déroulent sur des siècles plutôt qu'à travers des événements singuliers.",
       },
     ],
   },
@@ -380,8 +380,8 @@ export const projects: Project[] = [
     descriptionFr:
       "Volet 1 de la trilogie, ce premier film raconte l'avenir de la végétalisation du quartier de la ligne de métro de Nanterre.",
     screenings: [
-      "Centre Pompidou — Hors-Pistes/Hors Champs 2026, Festival Itinérant à la Vallée en Vendée",
-      "La Villette — Le Consulat de la Terre, cycle de conférences avec TVK, 2026",
+      "Centre Pompidou : Hors-Pistes/Hors Champs 2026, Festival Itinérant à la Vallée en Vendée",
+      "La Villette : Le Consulat de la Terre, cycle de conférences avec TVK, 2026",
     ],
     category: "Film Practice",
     content: [
@@ -427,15 +427,15 @@ export const projects: Project[] = [
     descriptionFr:
       "Volet 2 de la trilogie, cette deuxième partie raconte les cycles de vie et de mort autour du compostage et d'essaimage dans les fermes urbaines franciliennes.",
     screenings: [
-      "Centre Pompidou — Hors-Pistes/Hors Champs 2026, Festival Itinérant à la Vallée en Vendée",
-      "La Villette — Le Consulat de la Terre, cycle de conférences avec TVK, 2026",
+      "Centre Pompidou : Hors-Pistes/Hors Champs 2026, Festival Itinérant à la Vallée en Vendée",
+      "La Villette : Le Consulat de la Terre, cycle de conférences avec TVK, 2026",
     ],
     category: "Film Practice",
     content: [
       { type: "heading", text: "Espèces Pionnières Part 2" },
       {
         type: "paragraph",
-        text: "A film set on an urban farm, following how pioneer species help soil become productive again — through waste, compost, and the pulse of a living ecosystem.",
+        text: "A film set on an urban farm, following how pioneer species help soil become productive again, through waste, compost, and the pulse of a living ecosystem.",
       },
       {
         type: "video",
@@ -447,7 +447,7 @@ export const projects: Project[] = [
       { type: "heading", text: "Espèces Pionnières Partie 2" },
       {
         type: "paragraph",
-        text: "Un film tourné dans une ferme urbaine, qui suit comment les espèces pionnières aident le sol à redevenir fertile — à travers les déchets, le compost et le pouls d'un écosystème vivant.",
+        text: "Un film tourné dans une ferme urbaine, qui suit comment les espèces pionnières aident le sol à redevenir fertile, à travers les déchets, le compost et le pouls d'un écosystème vivant.",
       },
       {
         type: "video",
@@ -473,8 +473,8 @@ export const projects: Project[] = [
     descriptionFr:
       "Volet 3 de la trilogie, cette dernière partie enquête et raconte l'enfouissement de la Vieille Mer, sa visibilité et sa commémoration.",
     screenings: [
-      // "Centre Pompidou — Hors-Pistes/Hors Champs 2026, Festival Itinérant à la Vallée en Vendée",
-      // "La Villette — Le Consulat de la Terre, cycle de conférences avec TVK, 2026",
+      // "Centre Pompidou : Hors-Pistes/Hors Champs 2026, Festival Itinérant à la Vallée en Vendée",
+      // "La Villette : Le Consulat de la Terre, cycle de conférences avec TVK, 2026",
     ],
     category: "Film Practice",
     content: [
