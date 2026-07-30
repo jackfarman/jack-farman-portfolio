@@ -84,7 +84,7 @@ export const projects: Project[] = [
           },
           {
             type: "paragraph",
-            text: "In Nanterre, where a new metro line for the Grand Paris is being built, inhabitants are imagining a neighborhood where they can breathe and coexist with other human and non-human life. A hundred residents have each taken on the care of a pioneer species tree, a Paulownia tomentosa or empress tree, to be planted at the future metro stations once the line opens.",
+            text: "In Nanterre, where a new metro line for the Grand Paris is being built, inhabitants are imagining a neighborhood where they can breathe and coexist with other human and non-human life. A hundred residents have each taken on the care of a pioneer species tree, a Paulownia tomentosa, to be planted at the future metro stations once the line opens.",
           },
           {
             type: "paragraph",
@@ -123,7 +123,7 @@ export const projects: Project[] = [
         content: [
           {
             type: "paragraph",
-            text: "Researching the tree-planting initiative around the future metro stations led me to ask a broader question: what role do trees play in an ecosystem? To explore this, I filmed a sown forest in Vendée that has grown over thirty years as a collaborative land art project. It offers a counterpoint to the mineralized city, where planted trees have, over time, built the conditions for species to coexist. For the artist behind it, the forest is not separate from his imagination but an extension of it, and his work bears the traces of that entanglement. Scattered through the trees are his large-scale sculptures, which act as agents of perception: a wooden humanoid fountain surrounded by different plant species, for instance, makes visible how plants live socially, among themselves. What remains is the mark of a process in which forest and artist continuously shape one another.",
+            text: "Researching the tree-planting initiative around the future metro stations led me to ask a broader question: what role do trees play in an ecosystem? To explore this, I filmed a sown forest in Vendée that has grown over thirty years, offering a counterpoint to the mineralized city, where planted trees have, over time, built the conditions for species to coexist. The forest is not separate from the imagination that conceived it, but an extension of it, and the work in turn bears the traces of that entanglement. Scattered through the trees are large-scale sculptures that act as agents of perception: a wooden humanoid fountain surrounded by different plant species, for instance, makes visible how plants live socially, among themselves. What remains is the mark of a continuous, reciprocal process of shaping between the forest and the hand that sowed it.",
           },
           {
             type: "paragraph",
@@ -131,35 +131,35 @@ export const projects: Project[] = [
           },
           {
             type: "paragraph",
-            text: "Here, inhabitants deposit food waste onto a compost platform shaped like an omega, a symbol for the unending cycle of life and death. Matter decomposes; for a while it's uncertain whether life will return, and then it does. The relation between species and territory here takes the form of movement: the act of leaving one's home to return waste to the soil, so that it might one day yield food again. Sustaining the cycle means letting go of accumulation, giving back rather than keeping.",
+            text: "Here, inhabitants deposit food waste onto a compost platform. Matter decomposes; the relation between species and territory here takes the form of movement: the act of leaving one's home to return waste to the soil, so that it might one day yield food again. Sustaining the cycle means letting go of accumulation.",
           },
           {
             type: "paragraph",
-            text: "Bees follow this same movement, and are essential characters in the film, embodying the relation between life and death, and how the relations between species and territory sustain that cycle. A bee's world is the space where she lays her larvae, who become the next generation of workers gathering nectar and building the hive. She lives only forty-five days, and dies in the accumulation of that labor.",
+            text: "Bees accompany this same movement, and are essential characters in the film, embodying the relation between life and death, and how the relations between species and territory sustain that cycle. A bee's world is the space where she lays her larvae, who become the next generation of workers gathering nectar and building the hive. She lives only forty-five days, and dies in the accumulation of that labor.",
           },
           {
             type: "image",
             src: "/images/Pioneer_Species_Part_II_-_Image_A.webp",
             caption:
-              "Top left: Transporting compost across the Zone Sensible farm, Aubervilliers. Extract from Pioneer Species (Part II), Jack Farman, 2025.",
+              "Transporting compost across the Zone Sensible farm, Aubervilliers. Extract from Pioneer Species (Part II), Jack Farman, 2025.",
           },
           {
             type: "image",
             src: "/images/Pioneer_Species_Part_II_-_Image_B.webp",
             caption:
-              "Top right: Bee hive at the Zone Sensible farm, Aubervilliers. Extract from Pioneer Species (Part II), Jack Farman, 2025.",
+              "Food waste deposit at the Zone Sensible farm, Aubervilliers. Extract from Pioneer Species (Part II), Jack Farman, 2025.",
           },
           {
             type: "image",
             src: "/images/Pioneer_Species_Part_II_-_Image_C.webp",
             caption:
-              "Bottom left: Food waste deposit at the Zone Sensible farm, Aubervilliers. Extract from Pioneer Species (Part II), Jack Farman, 2025.",
+              "Compost maturing at the Zone Sensible farm, Aubervilliers. Extract from Pioneer Species (Part II), Jack Farman, 2025.",
           },
           {
             type: "image",
             src: "/images/Pioneer_Species_Part_II_-_Image_D.webp",
             caption:
-              "Bottom right: Compost maturing at the Zone Sensible farm, Aubervilliers. Extract from Pioneer Species (Part II), Jack Farman, 2025.",
+              "Bee hive at the Zone Sensible farm, Aubervilliers. Extract from Pioneer Species (Part II), Jack Farman, 2025.",
           },
         ],
       },
@@ -172,23 +172,19 @@ export const projects: Project[] = [
           },
           {
             type: "paragraph",
-            text: "This film also turns to other forms of water management, as how forests and farms retain and circulate water has become an urgent question in its own right⁴. This leads me back to the forest in Vendée, where a project is underway to let water from the Doulaye river circulate more freely through the living terrain. Here too, the aim is to make water visible, and to restore an awareness of the role it plays in sustaining life. Commemoration matters because it projects water management into the longue durée⁵, a way of remembering built to last rather than to fade.",
-          },
-          {
-            type: "paragraph",
-            text: "Pioneer Species offers a glimpse into communities making and inhabiting territories in tension as they transform. Within that tension, these communities move forward because it is now or never: to create, to act, and finally to commemorate what once made life possible.",
-          },
-          {
-            type: "image",
-            src: "/images/Pioneer_Species_Part_III_-_Image_A.webp",
-            caption:
-              "Top: Water distribution in the Doulaye river in Vendée. Extract from Pioneer Species (Part III), Jack Farman, 2026.",
+            text: "This film also turns to other forms of water management, as how forests and farms retain and circulate water has become an urgent question in its own right⁴. Here too, it is a question of making water visible, and of restoring an awareness of the role it plays in sustaining life. Commemoration matters because it projects water management into the longue durée⁵, a way of remembering built to last rather than to fade.",
           },
           {
             type: "image",
             src: "/images/Pioneer_Species_Part_III_-_Image_B.webp",
             caption:
-              "Bottom: Mapping the Doulaye river circulation into the forest with Fabrice Hyber. Extract from Pioneer Species (Part II), Jack Farman, 2025.",
+              "Top: Mapping the Doulaye river circulation into the forest with Fabrice Hyber. Extract from Pioneer Species (Part III), Jack Farman, 2025.",
+          },
+          {
+            type: "image",
+            src: "/images/Pioneer_Species_Part_III_-_Image_A.webp",
+            caption:
+              "Bottom: Water distribution in the Doulaye river in Vendée. Extract from Pioneer Species (Part III), Jack Farman, 2026.",
           },
         ],
       },
@@ -221,7 +217,7 @@ export const projects: Project[] = [
         content: [
           {
             type: "paragraph",
-            text: "Espèces Pionnières est un triptyque de films tourné en périphérie parisienne et dans une forêt semée en Vendée. Il suit des communautés engagées avec les plantes, le sol et l'eau, sous contrainte environnementale. D'une future ligne de métro à une forêt, d'une ferme urbaine aux traces enfouies d'une rivière, les films observent comment le soin se façonne à travers les relations entre espèces et le territoire, et comment ces relations peuvent elles-mêmes faire naître de nouvelles formes d'attention, d'action collective et de lien entre l'humain et le vivant.",
+            text: "Espèces Pionnières est un triptyque de films tourné en périphérie parisienne et dans une forêt semée en Vendée, suivant des communautés engagées avec les plantes, le sol et l'eau, sous contrainte environnementale. D'une future ligne de métro à une forêt, d'une ferme urbaine aux traces enfouies d'une rivière, les films observent comment le soin se façonne à travers les relations entre espèces et le territoire, et comment ces relations peuvent elles-mêmes faire naître de nouvelles formes d'attention, d'action collective et de lien entre l'humain et le vivant.",
           },
           {
             type: "paragraph",
@@ -229,7 +225,7 @@ export const projects: Project[] = [
           },
           {
             type: "paragraph",
-            text: "À Nanterre, où se construit une nouvelle ligne de métro du Grand Paris, les habitants imaginent un quartier où respirer et cohabiter avec d'autres formes de vie, humaines et non-humaines. Une centaine d'entre eux se sont chacun engagés à prendre soin d'un arbre pionnier, un Paulownia tomentosa, l'arbre impératrice, destiné à être planté aux abords des futures stations.",
+            text: "À Nanterre, où se construit une nouvelle ligne de métro du Grand Paris, les habitants imaginent un quartier où respirer et cohabiter avec d'autres formes de vie, humaines et non-humaines. Une centaine d'entre eux se sont chacun engagés à prendre soin d'un arbre pionnier, un Paulownia tomentosa, destiné à être planté aux abords des futures stations.",
           },
           {
             type: "paragraph",
@@ -268,7 +264,7 @@ export const projects: Project[] = [
         content: [
           {
             type: "paragraph",
-            text: "En enquêtant sur l'initiative de plantation autour des futures stations de métro, une question plus large s'est imposée à moi : quel rôle les arbres jouent-ils dans un écosystème ? Pour l'explorer, j'ai filmé une forêt semée en Vendée il y a trente ans, œuvre d'art collaborative. Elle offre un contrepoint à la ville minéralisée, où les arbres semés ont, avec le temps, créé les conditions d'une coexistence entre espèces. Pour l'artiste qui l'a conçue, la forêt n'est pas séparée de son imaginaire mais en est le prolongement, et son œuvre porte à son tour la trace de cet enchevêtrement. Il y a disséminé des sculptures monumentales qui font office d'agents de perception : une fontaine humanoïde en bois, entourée d'espèces végétales variées, rend par exemple visible la vie sociale des plantes entre elles. Ce qui demeure, ce sont les marques d'un processus où la forêt et l'artiste se façonnent continuellement l'un l'autre.",
+            text: "En enquêtant sur l'initiative de plantation autour des futures stations de métro, une question plus large s'est imposée à moi : quel rôle les arbres jouent-ils dans un écosystème ? Pour l'explorer, j'ai filmé une forêt semée en Vendée il y a trente ans, elle offre un contrepoint à la ville minéralisée, où les arbres semés ont, avec le temps, créé les conditions d'une coexistence entre espèces. La forêt n'est pas séparée de l'imaginaire qui l'a conçue, mais en est le prolongement, et l'œuvre porte à son tour la trace de cet enchevêtrement. Des sculptures monumentales y sont disséminées, faisant office d'agents de perception : une fontaine humanoïde en bois, entourée d'espèces végétales variées, rend par exemple visible la vie sociale des plantes entre elles. Ce qui demeure, ce sont les marques d'un processus continu de façonnage réciproque entre la forêt et la main qui l'a semée.",
           },
           {
             type: "paragraph",
@@ -276,35 +272,35 @@ export const projects: Project[] = [
           },
           {
             type: "paragraph",
-            text: "Ici, les habitants déposent leurs déchets alimentaires sur une plateforme de compostage en forme d'oméga, symbole du cycle sans fin de la vie et de la mort. La matière se décompose ; pendant un temps, rien ne dit que la vie reviendra, puis elle revient. La relation entre espèces et le territoire prend ici la forme d'un mouvement : quitter son domicile pour rendre ses déchets à la terre, afin qu'elle produise un jour à nouveau de la nourriture. Maintenir ce cycle suppose de renoncer à l'accumulation, de redonner plutôt que de garder.",
+            text: "Ici, les habitants déposent leurs déchets alimentaires sur une plateforme de compostage. La matière se décompose ; la relation entre espèces et le territoire prend ici la forme d'un mouvement : quitter son domicile pour rendre ses déchets à la terre, afin qu'elle produise un jour à nouveau de la nourriture. Maintenir ce cycle suppose de renoncer à l'accumulation.",
           },
           {
             type: "paragraph",
-            text: "Les abeilles suivent ce même mouvement et sont des figures essentielles du film : elles incarnent la relation entre la vie et la mort, et la façon dont les relations entre espèces et le territoire entretiennent ce cycle. Le monde de l'abeille se réduit à l'espace où elle pond ses larves, qui deviendront à leur tour les ouvrières butinant le nectar et bâtissant la ruche. Elle ne vit que quarante-cinq jours, et meurt dans l'accumulation de ce labeur.",
+            text: "Les abeilles accompagnent ce même mouvement et sont des figures essentielles du film : elles incarnent la relation entre la vie et la mort, et la façon dont les relations entre espèces et le territoire entretiennent ce cycle. Le monde de l'abeille prend forme dans l'espace où elle pond ses larves, qui deviendront à leur tour les ouvrières butinant le nectar et bâtissant la ruche. Elle ne vit que quarante-cinq jours, et meurt dans cette accumulation.",
           },
           {
             type: "image",
             src: "/images/Pioneer_Species_Part_II_-_Image_A.webp",
             caption:
-              "En haut à gauche : transport de compost à la ferme Zone Sensible, Aubervilliers. Extrait d'Espèces Pionnières (Partie II), Jack Farman, 2025.",
+              "Transport de compost à la ferme Zone Sensible, Aubervilliers. Extrait d'Espèces Pionnières (Partie II), Jack Farman, 2025.",
           },
           {
             type: "image",
             src: "/images/Pioneer_Species_Part_II_-_Image_B.webp",
             caption:
-              "En haut à droite : ruche à la ferme Zone Sensible, Aubervilliers. Extrait d'Espèces Pionnières (Partie II), Jack Farman, 2025.",
+              "Dépôt de déchets alimentaires à la ferme Zone Sensible, Aubervilliers. Extrait d'Espèces Pionnières (Partie II), Jack Farman, 2025.",
           },
           {
             type: "image",
             src: "/images/Pioneer_Species_Part_II_-_Image_C.webp",
             caption:
-              "En bas à gauche : dépôt de déchets alimentaires à la ferme Zone Sensible, Aubervilliers. Extrait d'Espèces Pionnières (Partie II), Jack Farman, 2025.",
+              "Compost en maturation à la ferme Zone Sensible, Aubervilliers. Extrait d'Espèces Pionnières (Partie II), Jack Farman, 2025.",
           },
           {
             type: "image",
             src: "/images/Pioneer_Species_Part_II_-_Image_D.webp",
             caption:
-              "En bas à droite : compost en maturation à la ferme Zone Sensible, Aubervilliers. Extrait d'Espèces Pionnières (Partie II), Jack Farman, 2025.",
+              "Ruche à la ferme Zone Sensible, Aubervilliers. Extrait d'Espèces Pionnières (Partie II), Jack Farman, 2025.",
           },
         ],
       },
@@ -317,23 +313,19 @@ export const projects: Project[] = [
           },
           {
             type: "paragraph",
-            text: "Ce film se tourne aussi vers d'autres formes de gestion de l'eau, tant la façon dont les forêts et les fermes la retiennent et la font circuler est devenue, en elle-même, une question urgente⁴. Cela me ramène à la forêt de Vendée, où un projet permet à l'eau de la Doulaye de circuler plus librement à travers le terrain vivant. Là aussi, il s'agit de rendre l'eau visible, et de restaurer la conscience du rôle qu'elle joue dans le maintien de la vie. La commémoration importe parce qu'elle inscrit la gestion de l'eau dans la longue durée⁵, une mémoire construite pour durer plutôt que pour s'effacer.",
-          },
-          {
-            type: "paragraph",
-            text: "Espèces Pionnières donne à voir des communautés qui fabriquent et habitent des territoires en tension, à mesure qu'ils se transforment. Dans cette tension, elles avancent parce que c'est maintenant ou jamais : pour créer, pour agir, et enfin pour commémorer ce qui, autrefois, a rendu la vie possible.",
-          },
-          {
-            type: "image",
-            src: "/images/Pioneer_Species_Part_III_-_Image_A.webp",
-            caption:
-              "En haut : distribution d'eau dans la rivière Doulaye en Vendée. Extrait d'Espèces Pionnières (Partie III), Jack Farman, 2026.",
+            text: "Ce film se tourne aussi vers d'autres formes de gestion de l'eau, tant la façon dont les forêts et les fermes la retiennent et la font circuler est devenue, en elle-même, une question urgente⁴. Ici aussi, il est question de rendre l'eau visible, et de restaurer la conscience du rôle qu'elle joue dans le maintien de la vie. La commémoration importe parce qu'elle inscrit la gestion de l'eau dans la longue durée⁵, une mémoire construite pour durer plutôt que pour s'effacer.",
           },
           {
             type: "image",
             src: "/images/Pioneer_Species_Part_III_-_Image_B.webp",
             caption:
-              "En bas : cartographie de la circulation de la Doulaye dans la forêt avec Fabrice Hyber. Extrait d'Espèces Pionnières (Partie II), Jack Farman, 2025.",
+              "En haut : cartographie de la circulation de la Doulaye dans la forêt avec Fabrice Hyber. Extrait d'Espèces Pionnières (Partie III), Jack Farman, 2025.",
+          },
+          {
+            type: "image",
+            src: "/images/Pioneer_Species_Part_III_-_Image_A.webp",
+            caption:
+              "En bas : distribution d'eau dans la rivière Doulaye en Vendée. Extrait d'Espèces Pionnières (Partie III), Jack Farman, 2026.",
           },
         ],
       },
@@ -479,7 +471,7 @@ export const projects: Project[] = [
       { type: "heading", text: "Eaux et pays" },
       {
         type: "paragraph",
-        text: "A film about the buried river La Vieille Mer, collective mapping in Saint-Denis, and the broader questions of water, memory, and environmental care.",
+        text: "A film about the buried river La Vieille Mer, collective mapping in Saint-Denis, memory, and the care of the territory.",
       },
       {
         type: "video",
