@@ -69,8 +69,6 @@ export const projects: Project[] = [
     ],
     description:
       "A three-part film series exploring regeneration, care, and more-than-human relations across the outskirts of Paris and a sown forest in Vendée.",
-    descriptionFr:
-      "Une série de trois films explorant la régénération, le soin et les relations plus-qu'humaines dans la banlieue parisienne et une forêt plantée en Vendée.",
     category: "Film Practice",
     sections: [
       {
@@ -125,7 +123,7 @@ export const projects: Project[] = [
         content: [
           {
             type: "paragraph",
-            text: "Researching the tree-planting initiative around the future metro stations led me to ask a broader question: what role do trees play in an ecosystem? To explore this, I filmed a sown forest in Vendée that has grown over thirty years as a collaborative land art project initiated by the artist Fabrice Hyber, a counterpoint to the mineralized city, where planted trees have, over time, built the conditions for species to coexist. For Hyber, the forest is not separate from his imagination but an extension of it, and his work bears the traces of that entanglement. Scattered through the trees are his large-scale sculptures, which act as agents of perception: a wooden humanoid fountain surrounded by different plant species, for instance, makes visible how plants live socially, among themselves. What remains is the mark of a process in which forest and artist continuously shape one another.",
+            text: "Researching the tree-planting initiative around the future metro stations led me to ask a broader question: what role do trees play in an ecosystem? To explore this, I filmed a sown forest in Vendée that has grown over thirty years as a collaborative land art project. It offers a counterpoint to the mineralized city, where planted trees have, over time, built the conditions for species to coexist. For the artist behind it, the forest is not separate from his imagination but an extension of it, and his work bears the traces of that entanglement. Scattered through the trees are his large-scale sculptures, which act as agents of perception: a wooden humanoid fountain surrounded by different plant species, for instance, makes visible how plants live socially, among themselves. What remains is the mark of a process in which forest and artist continuously shape one another.",
           },
           {
             type: "paragraph",
@@ -174,7 +172,7 @@ export const projects: Project[] = [
           },
           {
             type: "paragraph",
-            text: "This film also turns to other forms of water management, as how forests and farms retain and circulate water has become an urgent question in its own right⁴. This leads me back to the forest in Vendée, where Fabrice Hyber is developing a project to let water from the Doulaye river circulate more freely through the living terrain. Here too, the aim is to make water visible, and to restore an awareness of the role it plays in sustaining life. Commemoration matters because it projects water management into the longue durée⁵, a way of remembering built to last rather than to fade.",
+            text: "This film also turns to other forms of water management, as how forests and farms retain and circulate water has become an urgent question in its own right⁴. This leads me back to the forest in Vendée, where a project is underway to let water from the Doulaye river circulate more freely through the living terrain. Here too, the aim is to make water visible, and to restore an awareness of the role it plays in sustaining life. Commemoration matters because it projects water management into the longue durée⁵, a way of remembering built to last rather than to fade.",
           },
           {
             type: "paragraph",
@@ -223,7 +221,7 @@ export const projects: Project[] = [
         content: [
           {
             type: "paragraph",
-            text: "Espèces Pionnières est un triptyque de films tourné en périphérie parisienne et dans une forêt plantée en Vendée. Il suit des communautés engagées avec les plantes, le sol et l'eau, sous contrainte environnementale. D'une future ligne de métro à une forêt, d'une ferme urbaine aux traces enfouies d'une rivière, les films observent comment le soin se façonne à travers les relations entre espèces et le territoire, et comment ces relations peuvent elles-mêmes faire naître de nouvelles formes d'attention, d'action collective et de lien entre l'humain et le vivant.",
+            text: "Espèces Pionnières est un triptyque de films tourné en périphérie parisienne et dans une forêt semée en Vendée. Il suit des communautés engagées avec les plantes, le sol et l'eau, sous contrainte environnementale. D'une future ligne de métro à une forêt, d'une ferme urbaine aux traces enfouies d'une rivière, les films observent comment le soin se façonne à travers les relations entre espèces et le territoire, et comment ces relations peuvent elles-mêmes faire naître de nouvelles formes d'attention, d'action collective et de lien entre l'humain et le vivant.",
           },
           {
             type: "paragraph",
@@ -270,7 +268,7 @@ export const projects: Project[] = [
         content: [
           {
             type: "paragraph",
-            text: "En enquêtant sur l'initiative de plantation autour des futures stations de métro, une question plus large s'est imposée à moi : quel rôle les arbres jouent-ils dans un écosystème ? Pour l'explorer, j'ai filmé une forêt plantée en Vendée il y a trente ans, œuvre d'art collaborative initiée par l'artiste Fabrice Hyber, un contrepoint à la ville minéralisée, où les arbres plantés ont, avec le temps, créé les conditions d'une coexistence entre espèces. Pour Hyber, la forêt n'est pas séparée de son imaginaire mais en est le prolongement, et son œuvre porte à son tour la trace de cet enchevêtrement. Il y a disséminé des sculptures monumentales qui font office d'agents de perception : une fontaine humanoïde en bois, entourée d'espèces végétales variées, rend par exemple visible la vie sociale des plantes entre elles. Ce qui demeure, ce sont les marques d'un processus où la forêt et l'artiste se façonnent continuellement l'un l'autre.",
+            text: "En enquêtant sur l'initiative de plantation autour des futures stations de métro, une question plus large s'est imposée à moi : quel rôle les arbres jouent-ils dans un écosystème ? Pour l'explorer, j'ai filmé une forêt semée en Vendée il y a trente ans, œuvre d'art collaborative. Elle offre un contrepoint à la ville minéralisée, où les arbres semés ont, avec le temps, créé les conditions d'une coexistence entre espèces. Pour l'artiste qui l'a conçue, la forêt n'est pas séparée de son imaginaire mais en est le prolongement, et son œuvre porte à son tour la trace de cet enchevêtrement. Il y a disséminé des sculptures monumentales qui font office d'agents de perception : une fontaine humanoïde en bois, entourée d'espèces végétales variées, rend par exemple visible la vie sociale des plantes entre elles. Ce qui demeure, ce sont les marques d'un processus où la forêt et l'artiste se façonnent continuellement l'un l'autre.",
           },
           {
             type: "paragraph",
@@ -319,7 +317,7 @@ export const projects: Project[] = [
           },
           {
             type: "paragraph",
-            text: "Ce film se tourne aussi vers d'autres formes de gestion de l'eau, tant la façon dont les forêts et les fermes la retiennent et la font circuler est devenue, en elle-même, une question urgente⁴. Cela me ramène à la forêt de Vendée, où Fabrice Hyber développe un projet permettant à l'eau de la Doulaye de circuler plus librement à travers le terrain vivant. Là aussi, il s'agit de rendre l'eau visible, et de restaurer la conscience du rôle qu'elle joue dans le maintien de la vie. La commémoration importe parce qu'elle inscrit la gestion de l'eau dans la longue durée⁵, une mémoire construite pour durer plutôt que pour s'effacer.",
+            text: "Ce film se tourne aussi vers d'autres formes de gestion de l'eau, tant la façon dont les forêts et les fermes la retiennent et la font circuler est devenue, en elle-même, une question urgente⁴. Cela me ramène à la forêt de Vendée, où un projet permet à l'eau de la Doulaye de circuler plus librement à travers le terrain vivant. Là aussi, il s'agit de rendre l'eau visible, et de restaurer la conscience du rôle qu'elle joue dans le maintien de la vie. La commémoration importe parce qu'elle inscrit la gestion de l'eau dans la longue durée⁵, une mémoire construite pour durer plutôt que pour s'effacer.",
           },
           {
             type: "paragraph",
@@ -435,7 +433,7 @@ export const projects: Project[] = [
       { type: "heading", text: "Espèces Pionnières Part 2" },
       {
         type: "paragraph",
-        text: "A film set on an urban farm, following how pioneer species help soil become productive again, through waste, compost, and the pulse of a living ecosystem.",
+        text: "A film set on an urban farm, following how pioneer species help soil become productive again, through waste, compost, and a living ecosystem.",
       },
       {
         type: "video",
@@ -447,7 +445,7 @@ export const projects: Project[] = [
       { type: "heading", text: "Espèces Pionnières Partie 2" },
       {
         type: "paragraph",
-        text: "Un film tourné dans une ferme urbaine, qui suit comment les espèces pionnières aident le sol à redevenir fertile, à travers les déchets, le compost et le pouls d'un écosystème vivant.",
+        text: "Un film tourné dans une ferme urbaine, qui suit comment les espèces pionnières aident le sol à redevenir fertile, à travers les déchets, le compost et un écosystème vivant.",
       },
       {
         type: "video",

@@ -95,9 +95,7 @@ export default function ProjectPage() {
   }
 
   const description =
-    lang === "fr" && project?.descriptionFr
-      ? project.descriptionFr
-      : project?.description;
+    lang === "fr" ? project?.descriptionFr : project?.description;
 
   const footnotes =
     lang === "fr" && project?.footnotesFr?.length
